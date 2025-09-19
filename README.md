@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 Proyectos Destacados
+### 📊 Portafolio de proyectos
 
 #### [Primer Análisis de Datos con Python](https://github.com/Partix0187/Data-analyst)
 En este repositorio, realizo un análisis completo de una fuente de datos. El proyecto incluye la creación de diagramas de árbol, normalización de datos y visualización utilizando Python en Google Colab. ¡Échale un vistazo!
