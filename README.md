@@ -44,7 +44,11 @@
 #### [Primer Análisis de Datos con Python](https://github.com/Partix0187/Data-analyst)
 En este repositorio, realizo un análisis completo de una fuente de datos. El proyecto incluye la creación de diagramas de árbol, normalización de datos y visualización utilizando Python en Google Colab. ¡Échale un vistazo!
 
+#### [Deuda-publica-Mayo-2025---Datos-abiertos-bogota](https://github.com/Partix0187/Deuda-publica-Mayo-2025---Datos-abiertos-bogota)
+Este repositorio documenta el proceso de limpieza, transformación y publicación de datos de la deuda pública de Bogotá en mayo de 2025, con visualización final en Looker Studio. A continuación se presenta una descripción general y un README sugerido para lanzar el proyecto en GitHub u otra plataforma colaborativa. ¡Échale un vistazo!
+
 ---
+
 
 ### 📫 ¡Conectemos!
 
