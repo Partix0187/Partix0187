@@ -7,8 +7,9 @@
 
 ### 🚀 Sobre Mí
 
-- 🎓 Actualmente cursando **Ingeniería de Sistemas** y fortaleciendo mi **Inglés (Nivel B2)**.
-- 🏢 Aplicando y expandiendo mis conocimientos como **Practicante de Analista de Datos** en **[Open English](https://www.openenglish.com/)**.
+- 🎓 **Ingeniero de Sistemas** con **Inglés (Nivel B2)**.
+- 🏢 Trabajando como **Advanced Analytics Analyst** en **Capgemini**.
+- 🏢 Aplique mis conocimientos como **Practicante de Analista de Datos** en **[Open English](https://www.openenglish.com/)**.
 - 💡 Me especializo en la manipulación, compilación y análisis de datos para transformar información cruda en insights valiosos.
 - 🌱 Siempre estoy ansioso por aprender y aplicar mis habilidades en proyectos desafiantes que impulsen la innovación tecnológica.
 
